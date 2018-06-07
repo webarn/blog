@@ -7,14 +7,14 @@ title: it8 - 为了更好的自己
 subtitle: 技术无止境!
 description: JavaScript爱好者集结地，收录、搜集关于JavaScript的技术问题，尊重每一个用心学习和写作的人
 keywords: JavaScript Vue NodeJs
-author: it8
+author: webarn
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://it8.tech/blog
-root: /blog
+url: http://it8.tech
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -79,6 +79,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: webarn
+  type: git
   repo: git@git.coding.net:webarn/it8.git
   branch: master
