@@ -1,5 +1,5 @@
 ---
-title: hexo配置https && 开启Gzip
+title: hexo配置https并且开启Gzip
 date: 2018-06-08 15:01:46
 tags: 
   - https
