@@ -897,12 +897,6 @@ he@^1.0.0:
   version "1.1.1"
   resolved "http://registry.npm.taobao.org/he/download/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
 
-hexo-baidu-url-submit@0.0.5:
-  version "0.0.5"
-  resolved "http://registry.npm.taobao.org/hexo-baidu-url-submit/download/hexo-baidu-url-submit-0.0.5.tgz#0c4b076d3ae26d4f7d0f42faa488fbef541e7a7d"
-  dependencies:
-    xmlhttprequest "^1.8.0"
-
 hexo-bunyan@^1.0.0:
   version "1.0.0"
   resolved "http://registry.npm.taobao.org/hexo-bunyan/download/hexo-bunyan-1.0.0.tgz#b2106b26547b232f0195db863cb5d5ff8527fd36"
@@ -2492,10 +2486,6 @@ wrap-ansi@^2.0.0:
 wrappy@1:
   version "1.0.2"
   resolved "http://registry.npm.taobao.org/wrappy/download/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
-
-xmlhttprequest@^1.8.0:
-  version "1.8.0"
-  resolved "http://registry.npm.taobao.org/xmlhttprequest/download/xmlhttprequest-1.8.0.tgz#67fe075c5c24fef39f9d65f5f7b7fe75171968fc"
 
 y18n@^3.2.0:
   version "3.2.1"
