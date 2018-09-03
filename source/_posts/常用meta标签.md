@@ -9,6 +9,8 @@ categories:
 
 ### PC 端
 
+<!-- more -->
+
 ```html
 <!-- 设置文档的字符编码 -->
 <meta charset="utf-8">
